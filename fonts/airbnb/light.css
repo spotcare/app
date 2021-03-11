@@ -1,0 +1,7 @@
+@font-face {
+font-family: 'Airbnb Light';
+font-style: normal;
+font-weight: 300;
+src: url('https://cdn.jsdelivr.net/gh/spotcare/fonts/airbnb/AirbnbCerealLight.woff2') format('woff2'),
+url('https://cdn.jsdelivr.net/gh/spotcare/fonts/airbnb/AirbnbCerealLight.woff') format('woff');
+}

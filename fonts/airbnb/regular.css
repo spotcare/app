@@ -1,0 +1,7 @@
+@font-face {
+font-family: 'Airbnb';
+font-style: normal;
+font-weight: 400;
+src: url('https://cdn.jsdelivr.net/gh/spotcare/fonts/airbnb/AirbnbCerealBook.woff2') format('woff2'),
+url('https://cdn.jsdelivr.net/gh/spotcare/fonts/airbnb/AirbnbCerealBook.woff') format('woff');
+}
