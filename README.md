@@ -1,2 +1,2 @@
 # app
-Resources related to SpotCare app.
+Resources used in SpotCare app.
