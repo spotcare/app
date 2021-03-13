@@ -11,7 +11,7 @@ Follow instructions below to manually update files...
 
 Purge URL: https://purge.jsdelivr.net/gh/spotcare/app@latest
 
-1. File: /images/logo/favicon.svg
+1. File: [images/logo/favicon.svg](spotcare/app/blob/images/logo/favicon.svg)
 2. Go to: "Purge URL" + "/images/logo/favicon.svg"
 3. https://purge.jsdelivr.net/gh/spotcare/app@latest/images/logo/favicon.svg
 4. Replace "purge" with "cdn" in above url to view updated file.
