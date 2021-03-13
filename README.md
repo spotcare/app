@@ -10,7 +10,9 @@ To manually update files, cache must me purged for specific files.
 Follow instructions below to manually update files...
 
 Purge URL: https://purge.jsdelivr.net/gh/spotcare/app@latest
+
 File URL: [images/logo/favicon.svg](/images/logo/favicon.svg)
-1. Go to: "Purge URL" + "/images/logo/favicon.svg"
+
+1. Go to: "Purge URL" + "File URL"
 2. https://purge.jsdelivr.net/gh/spotcare/app@latest/images/logo/favicon.svg
 3. Replace "purge" with "cdn" in above url to view updated file.
