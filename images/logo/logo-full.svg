@@ -27,14 +27,14 @@
     </symbol>
   </defs>
   <g transform="matrix(0.999819, 0, 0, 1, 138.56871, -232.321381)">
-    <use transform="matrix(1, 0, 0, 1, 8.512238502502441, 338.0558166503906)" style="fill: rgb(107, 208, 157);" xlink:href="#glyph0-1"/>
-    <use transform="matrix(1, 0, 0, 1, 88.13285064697266, 338.0558166503906)" style="fill: rgb(107, 208, 157);" xlink:href="#glyph0-2"/>
-    <use transform="matrix(1, 0, 0, 1, 191.21446228027344, 338.0558166503906)" style="fill: rgb(107, 208, 157);" xlink:href="#glyph0-3"/>
-    <use transform="matrix(1, 0, 0, 1, 290.1903991699219, 338.0558166503906)" style="fill: rgb(107, 208, 157);" xlink:href="#glyph0-4"/>
-    <use transform="matrix(1, 0, 0, 1, 348.9894104003906, 338.0558166503906)" style="fill: rgb(107, 208, 157);" xlink:href="#glyph0-5"/>
-    <use transform="matrix(1, 0, 0, 1, 437.1146240234375, 338.0558166503906)" style="fill: rgb(107, 208, 157);" xlink:href="#glyph0-6"/>
-    <use transform="matrix(1, 0, 0, 1, 536.090576171875, 338.0558166503906)" style="fill: rgb(107, 208, 157);" xlink:href="#glyph0-7"/>
-    <use transform="matrix(1, 0, 0, 1, 606.353271484375, 338.0558166503906)" style="fill: rgb(107, 208, 157);" xlink:href="#glyph0-8"/>
+    <use transform="matrix(1, 0, 0, 1, 8.512238502502441, 338.0558166503906)" style="fill: rgb(45, 57, 88);" xlink:href="#glyph0-1"/>
+    <use transform="matrix(1, 0, 0, 1, 88.13285064697266, 338.0558166503906)" style="fill: rgb(45, 57, 88);" xlink:href="#glyph0-2"/>
+    <use transform="matrix(1, 0, 0, 1, 191.21446228027344, 338.0558166503906)" style="fill: rgb(45, 57, 88);" xlink:href="#glyph0-3"/>
+    <use transform="matrix(1, 0, 0, 1, 290.1903991699219, 338.0558166503906)" style="fill: rgb(45, 57, 88);" xlink:href="#glyph0-4"/>
+    <use transform="matrix(1, 0, 0, 1, 348.9894104003906, 338.0558166503906)" style="fill: rgb(45, 57, 88);" xlink:href="#glyph0-5"/>
+    <use transform="matrix(1, 0, 0, 1, 437.1146240234375, 338.0558166503906)" style="fill: rgb(45, 57, 88);" xlink:href="#glyph0-6"/>
+    <use transform="matrix(1, 0, 0, 1, 536.090576171875, 338.0558166503906)" style="fill: rgb(45, 57, 88);" xlink:href="#glyph0-7"/>
+    <use transform="matrix(1, 0, 0, 1, 606.353271484375, 338.0558166503906)" style="fill: rgb(45, 57, 88);" xlink:href="#glyph0-8"/>
   </g>
   <g transform="matrix(1.119699, 0, 0, 1.119699, -26.641819, -308.039459)">
     <path d="M 73.794 325.152 M 23.796 325.152 C 23.796 363.616 65.461 387.656 98.793 368.424 C 114.262 359.498 123.792 343.003 123.792 325.152 C 123.792 286.688 82.127 262.648 48.795 281.88 C 33.325 290.806 23.796 307.301 23.796 325.152 Z M 73.794 325.152 M 36.295 325.152 C 36.295 296.305 67.544 278.275 92.543 292.699 C 104.145 299.393 111.293 311.764 111.293 325.152 C 111.293 354 80.043 372.029 55.044 357.606 C 43.442 350.912 36.295 338.54 36.295 325.152 Z" style="fill: rgb(45, 57, 88);" transform="matrix(1, -0.000034, 0.000034, 1, -0.011055, 0.002509)"/>
